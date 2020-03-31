@@ -1,0 +1,13 @@
+.add{
+    flex:0.6;
+    background-color: beige;
+    padding: 30px;
+  }
+  
+  .add input{
+    display: block;
+    line-height: 2em;
+    background-color: #eee;
+    margin:12px 0;
+    width: 60%;
+  }
